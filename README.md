@@ -1,6 +1,6 @@
 # azure_custom_vision_trained_pet_classifier
 
-To run the image classification web app on your computer: 
+To run the image classification web app on your computer: I have excluded the train images due to huge size (Dataset used OXFORD PET III DATASET)
 
 1. Open a Terminal / Command Prompt (CMD)
 2. Use the CMD to navigate to the "src" folder 
