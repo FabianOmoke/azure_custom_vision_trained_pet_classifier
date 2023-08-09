@@ -1,6 +1,6 @@
-# Azure Custom Vision Trained Pet Classifier
+# azure_custom_vision_trained_pet_classifier
 
-Welcome to the **Azure Custom Vision Trained Pet Classifier** project repository! This application allows you to classify images of cats and dogs using a machine learning model trained with the [OXFORD PET III DATASET]([url](https://www.robots.ox.ac.uk/~vgg/data/pets/)). Please note that the training images have been excluded from this repository due to their large size.
+Welcome to the **Azure Custom Vision Trained Pet Classifier** project repository! This application allows you to classify images of cats and dogs using a machine learning model trained with the [OXFORD PET III DATASET](https://www.robots.ox.ac.uk/~vgg/data/pets/). Please note that the training images have been excluded from this repository due to their large size.
 
 ## Running the Image Classification Web App
 
@@ -9,6 +9,7 @@ To run the image classification web app on your computer, follow these steps:
 1. Open a Terminal / Command Prompt (CMD).
 
 2. Use the CMD to navigate to the "src" folder. For example:
+
 cd C:\Users\user\path\to\src
 
 3. Use Python from the CMD to create a web server on localhost. This will serve the contents of `index.html` to the web app:
