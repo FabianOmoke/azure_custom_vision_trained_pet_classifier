@@ -1,4 +1,4 @@
-# azure_custom_vision_trained_pet_classifier
+# Azure Custom Vision Trained Pet Classifier
 
 Welcome to the **Azure Custom Vision Trained Pet Classifier** project repository! This application allows you to classify images of cats and dogs using a machine learning model trained with the [OXFORD PET III DATASET](https://www.robots.ox.ac.uk/~vgg/data/pets/). Please note that the training images have been excluded from this repository due to their large size.
 
