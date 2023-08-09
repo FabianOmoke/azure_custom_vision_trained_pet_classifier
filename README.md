@@ -10,7 +10,7 @@ To run the image classification web app on your computer, follow these steps:
 
 2. Use the CMD to navigate to the "src" folder. For example:
 
-cd C:\Users\user\path\to\src
+  cd C:\Users\user\path\to\src
 
 3. Use Python from the CMD to create a web server on localhost. This will serve the contents of `index.html` to the web app:
 
